@@ -1,0 +1,45 @@
+#bg{
+    background-color:#34495e;
+}
+
+.idCard{
+    display: inline-block;
+    background-color:#e74c3c;
+    width: 300px;
+    height: 100px;
+    margin-right:50px;
+}
+h1{
+    color:white;
+}
+
+img{
+    height:100px;
+    width:100px;
+    float: left;
+    margin-right: 50px;
+}
+
+.idCard{
+    color:white;
+    display:inline-block;
+}
+
+.idCard1{
+    color:white;
+    display:inline-block;
+    line-height: 2px;
+    letter-spacing: 1px;
+    margin-left: -40px;
+}
+.ans{
+    color:#f1c40f;
+    display:inline-block;
+    line-height: 0.2;
+    letter-spacing: 1px; 
+}
+
+.idCard3{
+    font-size: 19px;
+    font-weight: bold; 
+}
